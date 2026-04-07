@@ -1,16 +1,14 @@
-## Hi there 👋
+## Vijay Kumar — Java Backend Engineer
 
-<!--
-**VijayKumarCode/VijayKumarCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building production backend systems with Java 17, Spring Boot 3, and WebSocket.
 
-Here are some ideas to get you started:
+**Currently shipping:**
+- [Nexus](https://nexusgame.space) — live multiplayer game platform with real-time 
+  WebSocket sessions, PostgreSQL, bcrypt auth, and GitHub Actions CI/CD
+- [Portfolio](https://vijaykumarcode.space) — vijaykumarcode.space
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Java 17 · Spring Boot 3 · PostgreSQL · WebSocket (STOMP) · Docker · Linux
+
+**Open to:** Remote backend engineering roles (Java / Spring Boot)
+
+📫 Reach me on [LinkedIn](https://linkedin.com/in/vijaykumarcode)
